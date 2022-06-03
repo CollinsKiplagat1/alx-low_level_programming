@@ -1,11 +1,12 @@
-#include <stdio.h
+#include <stdio.h>
+
 /**
-*main - program entry point 
-*
-*return:0 always (existmain funtion)
-*/
-int main(void))
+ * main - program entry point
+ *
+ * Return : 0 always (exit main function)
+ */
+int main(void)
 {
-puts("\"Programming is like building a multlilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
