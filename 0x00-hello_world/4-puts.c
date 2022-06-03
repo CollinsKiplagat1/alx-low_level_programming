@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <stdio.h
 /**
-* main - main block
-* Return: 0
-/*
-int main(void)
+*main - program entry point 
+*
+*return:0 always (existmain funtion)
+*/
+int main(void))
 {
-puts("\"Programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multlilingual puzzle");
 return (0);
 }
